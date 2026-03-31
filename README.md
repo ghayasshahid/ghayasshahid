@@ -1,78 +1,62 @@
-# 👋 HI , I'm Ghayas Shahid
+# 👋 Hi, I'm Ghayas Shahid
 
-🎓 BS Computer Science student at FAST-NUCES Lahore
-💻 Aspiring Software Engineer
-🚀 Passionate about building scalable systems, intelligent applications, and impactful real-world software
+🎓 BS Computer Science student at FAST-NUCES Lahore  
+💻 Aspiring Software Engineer (MERN Stack Focused)  
+🚀 Passionate about building scalable full-stack web applications and real-world software systems  
 
 ---
 
 ## 🚀 About Me
 
-I am a Computer Science student focused on becoming a strong **Software Engineer**, with interests in both **backend systems** and **AI-powered applications**.
+I am a Computer Science student focused on becoming a **Software Engineer**, specializing in **full-stack development using the MERN stack**.  
 
-I enjoy turning ideas into real products, learning how systems work under the hood, and improving my problem-solving skills through consistent practice.
+I enjoy building end-to-end applications, designing backend systems, working with databases, and learning how scalable web applications are engineered in production environments.
 
 ---
 
-## 🧠 What I'm Learning
+## 🌐 What I'm Working On
 
-* 🤖 AI/ML fundamentals (RAG, NLP, vector databases, LangChain)
-* 🏗️ Software Engineering principles (architecture, design patterns, scalability)
-* 🌐 Full-stack development using MERN stack
-* 📊 Data Structures & Algorithms for problem-solving
-* ⚙️ System design basics
+- 🧩 MERN Stack Development (MongoDB, Express, React, Node.js)
+- ⚙️ Backend API development with Node.js & Express.js
+- 🗄️ Database design with MongoDB and SQL fundamentals
+- 🧠 Software Engineering principles (clean architecture, scalability, system design basics)
+- 🔗 REST APIs, authentication, and middleware-based systems
+- 🤖 Exploring AI integration in web apps (RAG, NLP basics)
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:**
-C++, JavaScript, Python
+### 💻 Frontend
+React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS  
 
-**Backend:**
-Node.js, Express.js
+### ⚙️ Backend
+Node.js, Express.js, REST APIs, JWT Authentication  
 
-**Databases:**
-MongoDB, SQL
+### 🗄️ Databases
+MongoDB (Mongoose), SQL (basic)  
 
-**AI/ML:**
-LangChain, NLP basics, FAISS
+### 🧰 Tools & Platforms
+Git, GitHub, VS Code, Postman, Linux, npm, Vite  
 
-**Tools:**
-Git, GitHub, VS Code, Linux
+### 📦 Libraries
+Axios, Redux / Context API, bcrypt.js, dotenv, cors, nodemon  
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 
 ---
 
 ## 📫 Connect with Me
-
-* 💼 LinkedIn: [https://www.linkedin.com/in/ghayas-shahid-07181b1a4?utm_source=share_via&utm_content=profile&utm_medium=member_android](https://www.linkedin.com/)
-* 📧 Email: [ghayasshahid12@gmail.com](mailto:your-email@gmail.com)
-* 📍 Lahore, Pakistan 🇵🇰
+💼 LinkedIn: www.linkedin.com/in/ghayasshahid1  
+📧 Email: ghayasshahid12@gmail.com  
+📍 Lahore, Pakistan 🇵🇰 
 
 ---
 
 ## ⚡ Fun Fact
 
-I enjoy building systems that combine **software engineering + AI** to create practical and intelligent solutions 🚀
-
----
-<!--
-**ghayasshahid/ghayasshahid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like building full-stack MERN applications that solve real-world problems and experimenting with performance, architecture, and AI-powered features 🚀
