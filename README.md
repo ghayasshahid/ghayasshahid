@@ -51,8 +51,8 @@ Git, GitHub, VS Code, Linux
 
 ## 📫 Connect with Me
 
-* 💼 LinkedIn: [https://www.linkedin.com/](https://www.linkedin.com/)
-* 📧 Email: [your-email@gmail.com](mailto:your-email@gmail.com)
+* 💼 LinkedIn: [https://www.linkedin.com/in/ghayas-shahid-07181b1a4?utm_source=share_via&utm_content=profile&utm_medium=member_android](https://www.linkedin.com/)
+* 📧 Email: [ghayasshahid12@gmail.com](mailto:your-email@gmail.com)
 * 📍 Lahore, Pakistan 🇵🇰
 
 ---
